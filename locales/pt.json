@@ -1,0 +1,130 @@
+{
+  "app": {
+    "title": "Evidence",
+    "subtitle": "Descubra a arquitetura oculta da sua psique.",
+    "tagline": "Confie nos seus instintos. Não pense demais.",
+    "credit": "original por Fabiano Saft"
+  },
+  "buttons": {
+    "startJourney": "Iniciar Jornada",
+    "viewArchetypes": "Ver Arquétipos Anteriores",
+    "identify": "Iniciar Jornada",
+    "alreadyRegistered": "Já sou registrado",
+    "revealShadow": "Revelar Lado Sombra",
+    "returnToLight": "Retornar à Luz",
+    "saveCard": "Salvar Cartão",
+    "restart": "Reiniciar",
+    "followInstagram": "Siga no Instagram"
+  },
+  "form": {
+    "title": "Identifique-se",
+    "subtitle": "Para revelar seu arquétipo, precisamos saber quem pergunta.",
+    "name": "Seu Nome",
+    "email": "Endereço de Email",
+    "location": "Cidade / País"
+  },
+  "game": {
+    "swipeInstruction": "Deslize para escolher",
+    "swipeHint": "Deslize para o lado que deseja",
+    "clickToView": "Clique para ver sua carta"
+  },
+  "archetype": {
+    "label": "Seu Arquétipo",
+    "shadowLabel": "O Lado Sombra",
+    "shadowNotRevealed": "O lado sombra deste arquétipo ainda não foi revelado.",
+    "chaos": "Caos",
+    "order": "Ordem",
+    "emotion": "Emoção",
+    "logic": "Lógica"
+  },
+  "scenarios": [
+    {
+      "question": "Você encontra uma porta trancada em uma casa abandonada. O que você faz?",
+      "left": "Arromba a porta imediatamente.",
+      "right": "Procura pela chave escondida."
+    },
+    {
+      "question": "Um estranho sussurra um segredo em uma sala lotada. O que você faz?",
+      "left": "Compartilha com a multidão.",
+      "right": "Guarda para si mesmo."
+    },
+    {
+      "question": "Você está perdido em uma floresta densa à noite. O que você faz?",
+      "left": "Segue seu instinto visceral.",
+      "right": "Navega guiado pelas estrelas."
+    },
+    {
+      "question": "Uma pintura na galeria se move quando você desvia o olhar. O que você faz?",
+      "left": "Toca na tela para sentir.",
+      "right": "Alerta o segurança."
+    },
+    {
+      "question": "Você tem o poder de mudar um evento do passado. O que você escolhe?",
+      "left": "Salvar um ente querido.",
+      "right": "Impedir uma grande guerra."
+    },
+    {
+      "question": "Uma tempestade caótica se aproxima da sua cidade. O que você faz?",
+      "left": "Sai para assistir à fúria.",
+      "right": "Protege as janelas e se abriga."
+    },
+    {
+      "question": "Você encontra uma carteira cheia de dinheiro. O que você faz?",
+      "left": "Aceita como um presente do universo.",
+      "right": "Entrega à polícia."
+    },
+    {
+      "question": "Seu amigo é acusado de um crime que não cometeu. O que você faz?",
+      "left": "Planeja uma fuga da prisão.",
+      "right": "Contrata o melhor advogado."
+    },
+    {
+      "question": "Oferecem a você uma pílula que revela a verdade suprema. O que você faz?",
+      "left": "Toma sem hesitar.",
+      "right": "Recusa, preferindo o mistério."
+    },
+    {
+      "question": "O mundo vai acabar em 24 horas. O que você faz?",
+      "left": "Dá uma festa inesquecível.",
+      "right": "Passa o tempo em reflexão silenciosa."
+    }
+  ],
+  "archetypes": [
+    {
+      "title": "Ares",
+      "description": "O Guerreiro. Você é impulsivo, corajoso e vive pela ação. Sua força reside na determinação e na capacidade de enfrentar desafios de frente.",
+      "shadow": "Sua agressividade pode se tornar destrutiva. O lado sombra de Ares é a fúria descontrolada e a incapacidade de se render.",
+      "traits": ["Coragem", "Ação", "Determinação", "Força"]
+    },
+    {
+      "title": "Atena",
+      "description": "A Estrategista. Você é sábio, calculista e estratégico. Sua força reside na inteligência, na sabedoria e na capacidade de planejar.",
+      "shadow": "Seu controle excessivo pode levar à paralisia. O lado sombra de Atena é a frieza emocional e o isolamento.",
+      "traits": ["Sabedoria", "Estratégia", "Inteligência", "Controle"]
+    },
+    {
+      "title": "Afrodite",
+      "description": "A Sedutora. Você é carismático, sensual e conectado às emoções. Sua força reside na beleza, no carisma e na capacidade de inspirar.",
+      "shadow": "Sua busca por aprovação pode se tornar obsessiva. O lado sombra de Afrodite é a vaidade e a manipulação.",
+      "traits": ["Carisma", "Beleza", "Emoção", "Inspiração"]
+    },
+    {
+      "title": "Apolo",
+      "description": "O Iluminado. Você é criativo, expressivo e buscador de verdade. Sua força reside na criatividade, na clareza e na busca pelo conhecimento.",
+      "shadow": "Sua busca pela perfeição pode se tornar obsessiva. O lado sombra de Apolo é o perfeccionismo e a crítica implacável.",
+      "traits": ["Criatividade", "Verdade", "Expressão", "Iluminação"]
+    },
+    {
+      "title": "Hades",
+      "description": "O Transformador. Você é introspectivo, misterioso e transformador. Sua força reside na profundidade, na capacidade de lidar com o desconhecido.",
+      "shadow": "Seu isolamento pode se tornar depressão. O lado sombra de Hades é a escuridão, o medo e a obsessão pelo controle.",
+      "traits": ["Introspecção", "Transformação", "Mistério", "Profundidade"]
+    },
+    {
+      "title": "Hermes",
+      "description": "O Comunicador. Você é versátil, comunicativo e adaptável. Sua força reside na comunicação, na flexibilidade e na capacidade de se conectar.",
+      "shadow": "Sua superficialidade pode impedir conexões profundas. O lado sombra de Hermes é a desonestidade e a falta de compromisso.",
+      "traits": ["Comunicação", "Versatilidade", "Adaptabilidade", "Conexão"]
+    }
+  ]
+}

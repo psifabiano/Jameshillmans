@@ -1,0 +1,130 @@
+{
+  "app": {
+    "title": "Evidence",
+    "subtitle": "Discover the hidden architecture of your psyche.",
+    "tagline": "Trust your instincts. Don't overthink.",
+    "credit": "original by Fabiano Saft"
+  },
+  "buttons": {
+    "startJourney": "Start Journey",
+    "viewArchetypes": "View Previous Archetypes",
+    "identify": "Start Journey",
+    "alreadyRegistered": "Already registered",
+    "revealShadow": "Reveal Shadow Side",
+    "returnToLight": "Return to Light",
+    "saveCard": "Save Card",
+    "restart": "Restart",
+    "followInstagram": "Follow on Instagram"
+  },
+  "form": {
+    "title": "Identify Yourself",
+    "subtitle": "To reveal your archetype, we need to know who is asking.",
+    "name": "Your Name",
+    "email": "Email Address",
+    "location": "City / Country"
+  },
+  "game": {
+    "swipeInstruction": "Swipe to choose",
+    "swipeHint": "Swipe to the side you desire",
+    "clickToView": "Click to view your card"
+  },
+  "archetype": {
+    "label": "Your Archetype",
+    "shadowLabel": "The Shadow Side",
+    "shadowNotRevealed": "The shadow side of this archetype has not yet been revealed.",
+    "chaos": "Chaos",
+    "order": "Order",
+    "emotion": "Emotion",
+    "logic": "Logic"
+  },
+  "scenarios": [
+    {
+      "question": "You find a locked door in an abandoned house. What do you do?",
+      "left": "Break down the door immediately.",
+      "right": "Search for the hidden key."
+    },
+    {
+      "question": "A stranger whispers a secret in a crowded room. What do you do?",
+      "left": "Share it with the crowd.",
+      "right": "Keep it to yourself."
+    },
+    {
+      "question": "You are lost in a dense forest at night. What do you do?",
+      "left": "Follow your gut instinct.",
+      "right": "Navigate by the stars."
+    },
+    {
+      "question": "A painting in the gallery moves when you look away. What do you do?",
+      "left": "Touch the canvas to feel.",
+      "right": "Alert the security guard."
+    },
+    {
+      "question": "You have the power to change a past event. What do you choose?",
+      "left": "Save a loved one.",
+      "right": "Prevent a great war."
+    },
+    {
+      "question": "A chaotic storm approaches your city. What do you do?",
+      "left": "Go out to witness the fury.",
+      "right": "Protect the windows and take shelter."
+    },
+    {
+      "question": "You find a wallet full of money. What do you do?",
+      "left": "Accept it as a gift from the universe.",
+      "right": "Turn it in to the police."
+    },
+    {
+      "question": "Your friend is accused of a crime they didn't commit. What do you do?",
+      "left": "Plan a prison escape.",
+      "right": "Hire the best lawyer."
+    },
+    {
+      "question": "You are offered a pill that reveals supreme truth. What do you do?",
+      "left": "Take it without hesitation.",
+      "right": "Refuse, preferring the mystery."
+    },
+    {
+      "question": "The world will end in 24 hours. What do you do?",
+      "left": "Throw an unforgettable party.",
+      "right": "Spend the time in silent reflection."
+    }
+  ],
+  "archetypes": [
+    {
+      "title": "Ares",
+      "description": "The Warrior. You are impulsive, courageous, and live for action. Your strength lies in determination and the ability to face challenges head-on.",
+      "shadow": "Your aggression can become destructive. Ares' shadow side is uncontrolled fury and the inability to surrender.",
+      "traits": ["Courage", "Action", "Determination", "Strength"]
+    },
+    {
+      "title": "Athena",
+      "description": "The Strategist. You are wise, calculating, and strategic. Your strength lies in intelligence, wisdom, and the ability to plan.",
+      "shadow": "Your excessive control can lead to paralysis. Athena's shadow side is emotional coldness and isolation.",
+      "traits": ["Wisdom", "Strategy", "Intelligence", "Control"]
+    },
+    {
+      "title": "Aphrodite",
+      "description": "The Seductress. You are charismatic, sensual, and connected to emotions. Your strength lies in beauty, charisma, and the ability to inspire.",
+      "shadow": "Your need for approval can become obsessive. Aphrodite's shadow side is vanity and manipulation.",
+      "traits": ["Charisma", "Beauty", "Emotion", "Inspiration"]
+    },
+    {
+      "title": "Apollo",
+      "description": "The Illuminated. You are creative, expressive, and a seeker of truth. Your strength lies in creativity, clarity, and the pursuit of knowledge.",
+      "shadow": "Your pursuit of perfection can become obsessive. Apollo's shadow side is perfectionism and relentless criticism.",
+      "traits": ["Creativity", "Truth", "Expression", "Illumination"]
+    },
+    {
+      "title": "Hades",
+      "description": "The Transformer. You are introspective, mysterious, and transformative. Your strength lies in depth and the ability to deal with the unknown.",
+      "shadow": "Your isolation can become depression. Hades' shadow side is darkness, fear, and obsession with control.",
+      "traits": ["Introspection", "Transformation", "Mystery", "Depth"]
+    },
+    {
+      "title": "Hermes",
+      "description": "The Communicator. You are versatile, communicative, and adaptable. Your strength lies in communication, flexibility, and the ability to connect.",
+      "shadow": "Your superficiality can prevent deep connections. Hermes' shadow side is dishonesty and lack of commitment.",
+      "traits": ["Communication", "Versatility", "Adaptability", "Connection"]
+    }
+  ]
+}
